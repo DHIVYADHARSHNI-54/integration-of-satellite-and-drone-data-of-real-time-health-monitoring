@@ -25,8 +25,7 @@ transfer and minimizing signal loss.
  ## 3.Optics:
  For light reflecting at an interface between two media with refractive indices n1and n2 , for normal incidence, 
  the amplitude reflection coefficient (r).Optics play a crucial role in both drone and satellite technology, serving as the "eyes" 
- that collect vast amounts of data about the Earth's surface and atmosphere. While the platforms differ significantly in scale and operation, 
- the fundamental principles of optics for remote sensing remain similar.
+ that collect vast amounts of data about the Earth's surface and atmosphere.
 
  ![image](https://github.com/user-attachments/assets/97db001c-2c3b-41d0-8564-274939dff6da)
 
