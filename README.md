@@ -30,7 +30,6 @@ transfer and minimizing signal loss.
  ![image](https://github.com/user-attachments/assets/97db001c-2c3b-41d0-8564-274939dff6da)
 
 
-
 ## 4.Optics in Drones:
 Drones (UAVs - Unmanned Aerial Vehicles) offer unique advantages due to their flexibility, low altitude, and on-demand deployment:
 Payloads: Drones can carry various optical sensors as "payloads," which can be easily swapped depending on the mission. 
@@ -40,7 +39,6 @@ High Spatial Resolution: Due to their lower altitude, drones can capture extreme
 Flexibility and Responsiveness: Drones can be deployed quickly to specific areas, collect data at desired times 
 (e.g., specific sun angles, pre- or post-event), and fly below cloud cover that might obscure satellite views.
 Challenges: Limited coverage area per flight, shorter flight times (battery life), weather dependency (wind, rain), and regulatory restrictions.
-
 
 
 ## 5. Return Loss:
@@ -70,7 +68,6 @@ return loss only considers its magnitude and expresses it in a logarithmic scale
 
               
   ![image](https://github.com/user-attachments/assets/b3e5bac4-8fdf-4541-8507-6fc14bd7e79b)
-
 
 
 
