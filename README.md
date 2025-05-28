@@ -9,7 +9,7 @@ Satellites, orbiting at high altitudes, provide extensive spatial coverage, maki
 long-term trend analysis, and monitoring vast areas like agricultural regions, forests, or entire urban landscapes. They offer regular data acquisition, 
 ensuring consistent historical records and enabling the detection of macro-level changes over time, often unaffected by local weather conditions like wind.
 
-![image](https://github.com/user-attachments/assets/84cfc974-08af-4a13-8ff4-5b6458e21b56)
+![image](https://github.com/user-attachments/assets/5eaab174-d885-4f48-af4a-09a8559bf1a5)
 
 
 ## 2.Reflection Coefficient (Γ):
